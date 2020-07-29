@@ -1,5 +1,7 @@
 package inheritance;
 
 public interface abc {
-    void print();
+  static  void print(){
+      System.out.println("interface implemented");
+  }
 }

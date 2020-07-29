@@ -1,7 +1,7 @@
 package inheritance;
 
  abstract class Xyz {
-void btech()
+static void btech()
   {
    System.out.println("btech from abc");
   }
